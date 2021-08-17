@@ -6,15 +6,15 @@ Supports Live streaming from youtube
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @subinps
+(C) @hamidpvr786
 Copyright permission under MIT License
-License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
+License -> https://github.com/hamidpvr786/MusicPlayer/blob/master/LICENSE
 
 ```
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hamidpvr786/MusicPlayer)
 
 NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 ### Deploy to VPS
