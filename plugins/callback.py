@@ -174,12 +174,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-                InlineKeyboardButton('🤖 Other Bots', url='https://t.me/subin_works/122'),
+                InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/hubburasoolsongs'),
+                InlineKeyboardButton('Group', url='https://t.me/islamicsongsmadhsongs'),
             ],
             [
-                InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/subinps'),
-                InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayer'),
+                InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/hamidpvr786'),
+                InlineKeyboardButton('🧩 Source', url='https://github.com/hamidpvr786/MusicPlayer'),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
