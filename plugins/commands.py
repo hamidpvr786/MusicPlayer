@@ -69,8 +69,8 @@ You can also use /dplay <song name> to play a song from Deezer.</b>
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-        InlineKeyboardButton('🤖 Other Bots', url='https://t.me/madeenabots/3'),
+        InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/hubburasoolsongs'),
+        InlineKeyboardButton('Join Group', url='https://t.me/islamicsongsmadhsongs'),
     ],
     [
         InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/hamidpvr786'),
@@ -92,12 +92,12 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/madeenabots'),
-            InlineKeyboardButton('🤖 Other Bots', url='https://t.me/subin_works/122'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/hubburasoolsongs'),
+            InlineKeyboardButton('Join Group', url='https://t.me/islamicsongsmadhsongs'),
         ],
         [
-            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/subinps'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayer'),
+            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/hamidpvr786'),
+            InlineKeyboardButton('🧩 Source', url='https://github.com/hamidpvr786/MusicPlayer'),
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
